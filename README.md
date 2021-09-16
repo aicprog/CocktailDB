@@ -1,11 +1,4 @@
-#### React Router Fix
+#### Cocktail Database React Website
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+(Website)[https://cocktail-world.netlify.app/]
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
